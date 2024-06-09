@@ -1,4 +1,4 @@
-"# Diabetes-Prediction" 
+  "# Diabetes-Prediction" 
 **Data Loading and Exploration:**
 The project starts by loading a dataset named "diabetes.csv" using pandas.
 The dataset contains information about pregnancies, glucose levels, blood pressure, skin thickness, insulin levels, BMI, diabetes pedigree function, age, and diabetes outcome.
